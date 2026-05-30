@@ -124,6 +124,7 @@ Decode-Labs-Project-2/
 │
 ├── dataset.csv
 ├── Project2.ipynb
+├── script.py
 └── README.md
 ```
 
